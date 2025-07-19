@@ -102,6 +102,4 @@ This project is open-source under the [MIT License](LICENSE).
 **Bikram Bagdi**
 [GitHub Profile](https://github.com/bikram8538)
 
-```
-
 ---
